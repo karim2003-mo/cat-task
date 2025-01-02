@@ -1,5 +1,6 @@
 # cat-task
 # this app is tested only on android
+# the main directory of the app is very large to be uploaded , So i upload the required objects
 steps :
 
 1 - run in terminal : flutter create prayer
